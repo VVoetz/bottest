@@ -1,0 +1,5 @@
+discord>=2.3.2
+responses>=0.24.1
+bs4>=0.0.2
+requests_html>=0.10.0
+schedule>=1.2.1
